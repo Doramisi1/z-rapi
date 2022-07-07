@@ -11,9 +11,9 @@ router.get('/config', (req, res) => {
     config = {
         status: true,
         result: {
-            prefix : '/',
-            namabot: 'ZZBot',
-            namaowner: 'ZefianAlfian',
+            prefix : '/','.','*',
+            namabot: 'SKYbot',
+            namaowner: 'SKY-gans',
             instagram: 'zefianalfian',
             youtube : 'ZefianAlfian'
         }
