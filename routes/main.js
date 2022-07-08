@@ -9,7 +9,7 @@ router.get('/', (req, res) => {
 
 router.get('/config', (req, res) => {
     config = {
-        status: true,
+        status: premium,
         result: {
             prefix : '/',
             namabot: 'SKYbot',
